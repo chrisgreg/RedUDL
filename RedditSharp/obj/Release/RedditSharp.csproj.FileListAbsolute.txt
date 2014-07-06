@@ -1,0 +1,7 @@
+C:\Users\Chris_000\Desktop\RedditSharp-master\RedditSharp\bin\Release\RedditSharp.dll
+C:\Users\Chris_000\Desktop\RedditSharp-master\RedditSharp\bin\Release\RedditSharp.pdb
+C:\Users\Chris_000\Desktop\RedditSharp-master\RedditSharp\bin\Release\HtmlAgilityPack.dll
+C:\Users\Chris_000\Desktop\RedditSharp-master\RedditSharp\bin\Release\Newtonsoft.Json.dll
+C:\Users\Chris_000\Desktop\RedditSharp-master\RedditSharp\obj\Release\RedditSharp.csprojResolveAssemblyReference.cache
+C:\Users\Chris_000\Desktop\RedditSharp-master\RedditSharp\obj\Release\RedditSharp.dll
+C:\Users\Chris_000\Desktop\RedditSharp-master\RedditSharp\obj\Release\RedditSharp.pdb

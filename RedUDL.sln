@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedUDL", "RedUDL\RedUDL.csproj", "{3C044184-A055-4AC8-BB04-DEC532F40B15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedditSharp", "..\..\..\..\Desktop\RedditSharp-master\RedditSharp\RedditSharp.csproj", "{A368CB75-75F0-4489-904D-B5CEBB0FE624}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedditSharp", "RedditSharp\RedditSharp.csproj", "{A368CB75-75F0-4489-904D-B5CEBB0FE624}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
